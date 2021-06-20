@@ -5,4 +5,4 @@ branded apps connecting and controlling smart scenarios of many devices.
 For more information, please check Tuya Developer Website.
 
 ###
-使用涂鸦CBU模组作为联网通迅，arduino UNO R3开发板作为MCU，实现“涂鸦智能”APP对2812BLED灯带的控制。
+使用涂鸦CBU模组作为联网通迅，arduino UNO R3开发板作为MCU，实现移动端“涂鸦智能”APP对2812BLED灯带的控制。
